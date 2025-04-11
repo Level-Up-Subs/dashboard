@@ -5,4 +5,5 @@ Show status of various Level Up Subs related data
 * psacard.com status
 * psa api status
 * psa api number of calls used
+* api call log
 * grade repo status (last successful push)
